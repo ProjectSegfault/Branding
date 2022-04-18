@@ -3,7 +3,7 @@
 ## Project Segfault's Branding
 
 ### Legal
-Our branding is protected under Creative Commonns Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Our branding is licensed under Creative Commonns Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 ### Now let's get into the branding
 Everything is here on GitHub. 
