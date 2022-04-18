@@ -10,6 +10,7 @@ Everything is here on GitHub.
 
 
 In the folder meat, you will find the following goodies:
+
     * projectsegfault1.kra (this is the base design)
     * projectsegfault1_gimp.xcf (this is where we applied the line-arty effect)
     * projectsegfault1.png (this is the Krita export, that is used in projectsegfault1_gimp.xcf)
