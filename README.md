@@ -17,4 +17,4 @@ In the folder meat, you will find the following goodies:
     * projectsegfault1_gimp.png (this is the final logo)
     * projectsegfault1_wallpaper.png (This is a quickly-made 1080p wallpaper of our logo. It looks rather good!)
 # who made the logo? I hate it and I'd like to shout at the guy behind this. Or, I like this and I'd like to praise the guy behind this.
-Odyssey346 designed these logos quickly in GIMP and Krita. FOSS software is good enough for making simple logos like ours.
+Odyssey346 designed these logos quickly in GIMP and Krita.
