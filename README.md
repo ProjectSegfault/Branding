@@ -20,4 +20,4 @@ In the folder meat, you will find the following goodies:
 Odyssey346 designed these logos quickly in GIMP and Krita.
 
 # Branding Guidelines
-Please do not use the line-arty version of our logo where it would not look good or readable. (the final logo)
+Please do not use the line-arty version of our logo where it would not look good or unreadable. (the final logo)
