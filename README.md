@@ -21,4 +21,4 @@ Odyssey346 designed these logos quickly in GIMP and Krita.
 Midou36O designed the currently used logos (SVG) in Inkscape.
 
 # Branding Guidelines
-Please do not use the line-party version of our logo where it would not look good or unreadable. (the final logo)
+Please do not use the line-arty version of our logo where it would not look good or unreadable. (the final logo)
